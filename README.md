@@ -1,5 +1,6 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
+This project is part of the Udacity Data Scientist Nanodegree program.
 
 ### Install
 
